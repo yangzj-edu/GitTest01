@@ -12,6 +12,8 @@ public class Admin {
     private String loginname;
     private String password;
     private String state;
+	
+	private int age;
 
     public String getId() {
         return id;
